@@ -7,8 +7,9 @@ Ben bir yazılım geliştiricisiyim. Teknoloji ve yazılım alanında kendimi s�
 ## 🛠 Daha Önce Kullandığım Teknolojiler
 
 - **Frontend:** HTML, CSS, SASS, Bootstrap, JavaScript, React.js
+(*[*Projeyi görmek için tıklayınız.*](https://github.com/yldrmfatma/e-ticaret-main-class.git)*)
 - **Backend:** ASP.NET, C#, MSSQL, Entity Framework
-- **Game Development:** Unity, C#
+- **Game Development:** Unity, C# 
 - **Veri Analizi:** Python, Pandas, NumPy, Matplotlib
 - **Proje Yönetimi ve Raporlama:** Crystal Reports, MSSQL
 - **Araçlar:** Git, GitHub, Visual Studio, Node.js
